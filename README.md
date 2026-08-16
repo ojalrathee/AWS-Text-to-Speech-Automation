@@ -6,7 +6,7 @@ The project uses Amazon S3 for storing input and output files, AWS Lambda for pr
 The goal of this project was to understand how different AWS services can work together to build a simple, automated, and serverless cloud workflow.
 
 ### Architeecture Workflow
-<img height="1080" alt="Amazon Polly" src="assets/architecture.png" />
+<img height="1080" alt="Amazon Polly" src="Assets/architecture.png" />
 
 ### Steps to be Performed:
 1. Exploring Amazon Polly
